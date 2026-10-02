@@ -1,7 +1,10 @@
 {
-  "_readme": "players: UUID (dashes optional) or username -> capes they own. First cape is the one other players see. \"*\" = every cape.",
   "players": {
-    "00000000-0000-0000-0000-000000000000": ["Cliffside", "Retro"],
+    "069a79f4-44e9-4726-a5be-fca90e38aaf5": ["Cliffside", "Retro"],
+    "SomeUsername": ["*"]
+  },
+  "emotes": {
+    "069a79f4-44e9-4726-a5be-fca90e38aaf5": ["Dab", "Groove"],
     "SomeUsername": ["*"]
   }
 }
