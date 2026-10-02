@@ -1,10 +1,8 @@
 {
   "players": {
-    "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["Cliffside", "Minecon 2015"],
-    "SomeUsername": ["*"]
+    "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["*"],
   },
   "emotes": {
-    "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["Dab", "Groove"],
-    "SomeUsername": ["*"]
+    "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["*"],
   }
 }
