@@ -1,11 +1,11 @@
 {
   "players": { 
-    "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["Cliffside"] 
+    "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["*"] 
   },
   "emotes":  { "4db65349-1847-4d4d-88f5-8c9027fcdb43": ["*"] 
   },
   "bans": {
-    "4db65349-1847-4d4d-88f5-8c9027fcdb43": "Cheating on Hypixel",
+    "fake": "Cheating on Hypixel",
     "AnotherName": true
   }
 }
